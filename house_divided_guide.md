@@ -1,37 +1,34 @@
 # House Divided Study Guide
 
-## Overview of the House Divided Era
-- Definition and context of the "House Divided" quote
-- Abraham Lincoln's perspective on slavery and union
+## Vocabulary Definitions
+- **Union**: The northern states during the Civil War.
+- **Confederacy**: The southern states that seceded from the Union.
+- **Emancipation**: The act of freeing enslaved people.
 
-## Key Events Leading Up to the Civil War
-- Missouri Compromise (1820)
-- Compromise of 1850
-- Kansas-Nebraska Act (1854)
-- Dred Scott Decision (1857)
+## Review Questions and Answers
+1. **What were the main causes of the Civil War?**  
+- The main causes included slavery, states’ rights, and economic disagreements.
 
-## Important Figures
-- Abraham Lincoln
-- Stephen A. Douglas
-- Harriet Tubman
-- Frederick Douglass
-- Jefferson Davis
+2. **Who was the President of the Confederate States?**  
+- Jefferson Davis was the President of the Confederacy.
 
-## Major Battles and Turning Points
-- Battle of Fort Sumter
-- Battle of Gettysburg
-- Siege of Vicksburg
-- Sherman's March to the Sea
+## Timelines
+- **1861**: Civil War begins.
+- **1863**: Emancipation Proclamation issued.
+- **1865**: Civil War ends.
 
-## Key Terms and Vocabulary
-- Abolitionism
-- Secession
-- Confederate States
-- Union
-- Emancipation Proclamation
+## Comparison Charts
+| Aspect          | Union         | Confederacy    |
+|----------------|---------------|-----------------|
+| Population     | Larger        | Smaller         |
+| Economy        | Industrial    | Agricultural    |
 
-## Answers to Common Review Questions
-1. What was the significance of the House Divided speech?
-2. How did the Kansas-Nebraska Act increase tensions?
-3. What were the economic differences between the North and South?
-4. What was the impact of the Emancipation Proclamation?
+## Battle Analyses
+- **Battle of Gettysburg**: A turning point in the war that halted the Confederate invasion.
+- **Battle of Antietam**: Known as the bloodiest single day in American history.
+
+## Biographical Information
+- **Abraham Lincoln**: The 16th President, known for leading the country during the Civil War and issuing the Emancipation Proclamation.
+- **Robert E. Lee**: Confederate general, noted for his leadership in major battles.
+
+This guide provides a comprehensive overview of the important elements of the House Divided era and the Civil War period.
